@@ -30,6 +30,8 @@ public class Casting {
         short nS = (short) n;
         System.out.println(nS);
 
+        //Cambiar tipo de variables
+
 
 
     }
